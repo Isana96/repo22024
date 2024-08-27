@@ -10,7 +10,7 @@ Soy [Tu Nombre], un desarrollador apasionado por [tu especialidad o interés]. A
 
 ## Proyectos Destacados
 
-- Proyecto 1: Breve descripción del proyecto.
+
 - Proyecto 2: Breve descripción del proyecto.
 
 ## Habilidades
